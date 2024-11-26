@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>The Hong Kong Polytechnic University</a>. Hung Hom, Kowloon, Hong Kong.
+subtitle: <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University</a>. Hung Hom, Kowloon, Hong Kong.
 
 profile:
   align: right
