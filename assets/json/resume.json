@@ -24,38 +24,60 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Suzhou Bio-engin Robot Technology Co. LTD",
+      "position": "Intern at the No. 1 Technical Division",
+      "url": "",
+      "startDate": "2020-06-01",
+      "endDate": "2020-09-01",
+      "summary": "Completed the data reduction and preparing graphs in the Electromyography program. Managed to write PID MATLAB algorithm for the wire-driven parallel robot system applied to gait rehabilitation training.",
+      "highlights": [""]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
+      "organization": "ISMAR 22",
+      "location": "Singapore",
+      "position": "Program Committees Members",
+      "url": "https://ismar2022.vgtc.org/index.html",
+      "startDate": "2022",
+      "endDate": "",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "The Hong Kong Polytechnic University",
+      "location": "Hong Kong",
+      "url": "https://www.polyu.edu.hk/",
+      "area": "",
+      "studyType": "Ph.D.",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Hong Kong University of Science and Technology (HKUST)",
+      "location": "Hong Kong SAR",
+      "url": "https://hkust.edu.hk/",
+      "area": "Artificial Intelligence (AI)",
+      "studyType": "Mphil",
+      "startDate": "2021-09",
+      "endDate": "2023-01",
+      "score": "Awarded: Postgraduate Studentship Award (2021-2023).",
+      "courses": [""]
+    },
+    {
+      "institution": "Xi’an Jiaotong-Liverpool University (XJTLU)",
+      "location": "Suzhou, China",
+      "url": "https://www.xjtlu.edu.cn/en",
+      "area": "Electronic Science and Technology",
+      "studyType": "B.S.",
+      "startDate": "2017-09-01",
+      "endDate": "2021-07-01",
+      "score": "Awarded a first class honors degree.",
+      "courses": [""]
     }
   ],
   "awards": [
@@ -136,22 +158,26 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "C/C++/C",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "",
       ]
+    },
+    {
+      "name": "Unity"
+    },
+    {
+      "name": "LaTeX"
+    },
+    {
+      "name": "MATLAB"
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -162,6 +188,13 @@
     }
   ],
   "interests": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        ""
+      ]
+    },
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
