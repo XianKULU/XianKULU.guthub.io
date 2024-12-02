@@ -5,20 +5,20 @@
     "image": "",
     "email": "xiann.wang@connect.polyu.hk",
     "phone": "",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://xiankulu.github.io/",
+    "summary": "A PhD student, current research is focused on collaborative interaction in VR.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Jordan Reclamation St.",
+      "postalCode": "",
+      "city": "Kowloon",
+      "countryCode": "HK",
+      "region": "Hong Kong"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
