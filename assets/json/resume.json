@@ -30,7 +30,7 @@
       "startDate": "2020-06-01",
       "endDate": "2020-09-01",
       "summary": "Completed the data reduction and preparing graphs in the Electromyography program. Managed to write PID MATLAB algorithm for the wire-driven parallel robot system applied to gait rehabilitation training.",
-      "highlights": [""]
+      "highlights": ["Internship"]
     }
   ],
   "volunteer": [
@@ -40,9 +40,9 @@
       "position": "Program Committees Members",
       "url": "https://ismar2022.vgtc.org/index.html",
       "startDate": "2022",
-      "endDate": "",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": [""]
+      "endDate": "2022",
+      "summary": "",
+      "highlights": ["Helping to develop virtual website for the conference"]
     }
   ],
   "education": [
@@ -52,10 +52,10 @@
       "url": "https://www.polyu.edu.hk/",
       "area": "",
       "studyType": "Ph.D.",
-      "startDate": "",
+      "startDate": "2024",
       "endDate": "",
       "score": "",
-      "courses": [""]
+      "courses": ["NA"]
     },
     {
       "institution": "Hong Kong University of Science and Technology (HKUST)",
@@ -65,8 +65,8 @@
       "studyType": "Mphil",
       "startDate": "2021-09",
       "endDate": "2023-01",
-      "score": "Awarded: Postgraduate Studentship Award (2021-2023).",
-      "courses": [""]
+      "score": "",
+      "courses": ["Awarded: Postgraduate Studentship Award (2021-2023)"]
     },
     {
       "institution": "Xi’an Jiaotong-Liverpool University (XJTLU)",
@@ -76,8 +76,8 @@
       "studyType": "B.S.",
       "startDate": "2017-09-01",
       "endDate": "2021-07-01",
-      "score": "Awarded a first class honors degree.",
-      "courses": [""]
+      "score": "",
+      "courses": ["Awarded a first class honors degree."]
     }
   ],
   "awards": [
