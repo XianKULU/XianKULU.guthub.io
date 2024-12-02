@@ -210,14 +210,24 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Prof. Lik-Hang Lee",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "lik-hang.lee@polyu.edu.hk"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Prof. Pan HUI",
+      "icon": "fa-solid fa-laptop",
+      "reference": "panhui@ust.hk"
+    },
+    {
+      "name": "Prof. Mingming Fan",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "mingmingfan@ust.hk"
+    },
+    {
+      "name": "Prof. Hai-Ning Liang",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "hainingliang@hkust-gz.edu.cn"
     }
   ],
   "projects": [
